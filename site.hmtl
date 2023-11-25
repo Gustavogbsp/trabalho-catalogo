@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saiba sobre nosso catálogo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Saiba sobre nosso catálogo</h1>
+    </header>
+
+    <section>
+        <h2>Bem-vindo ao Nosso Serviço!</h2>
+        <p>Bem vindo ao nosso site onde falaremos sobre os nossos serviços de vídeo jogos, sente-se, se acomode e acompanhe-nos em nossa exibição de benéficos.</p>
+    </section>
+
+    <section>
+        <h2>Nossos Serviços</h2>
+        <p>Oferecemos um catálogo com mais de 100 mil jogos, dando uma variedade à gosto aos nossos usuários. Além de oferecermos jogos para Pc, Xbox one, séries S, séries X, Playstation 4 e Playstation 5. Visamos a felicidade de nossos clientes, oferecemos desconto na primeira compra do usuário, além de poder escolher uma DLC de seu jogo favorito <strong>DE GRAÇA</strong>. Não perca tempo, venha fazer parte dessa família que cresce a cada dia.</p>
+    </section>
+
+    <section>
+        <h2>Como Funciona</h2>
+        <p>1. Crie uma conta.<br>
+           2. Escolha seu jogo favorito.<br>
+           3. Faça o download ou compre online.<br>
+           4. Divirta-se!</p>
+    </section>
+</body>
+</html>
