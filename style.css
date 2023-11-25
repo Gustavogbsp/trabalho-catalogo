@@ -1,0 +1,57 @@
+
+.title {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nome {
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.codigo {
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.valor {
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.memória {
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.tipo {
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  text-align: center;
+  border-radius: 5px;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.conteudo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
