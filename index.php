@@ -23,35 +23,35 @@
 
     <div class="codigo">
     <p>Digite o codigo do jogo:</p>
-  <input class="input" type="text" placeholder="Nome" name="codigo">
+  <input class="input" type="text" placeholder="Nome" name="txtCodigo">
     </div>
 
     <br>
     
   <div class="nome">
     <p>Digite o nome do jogo:</p>
-  <input class="input" type="text" placeholder="Nome" name="nome">
+  <input class="input" type="text" placeholder="Nome" name="txtNomeJogo">
   </div>
   
   <br>
   
   <div class="valor">
     <p>Digite o valor do jogo:</p>
-  <input class="input" type="text" placeholder="Valor" name="valor">
+  <input class="input" type="text" placeholder="Valor" name="txtValorJogo">
   </div>
   
   <br>
 
   <div class="memória">
     <p>Digite a memória do jogo:</p>
-<input class="input" type="text" placeholder="Memória" name="memória">
+<input class="input" type="text" placeholder="Memória" name="txtMemoriaJogo">
   </div>
   
   <br>
 
   <div class="tipo">
     <p>Digite o gênero do jogo:</p>
-  <input class="input" type="text" placeholder="Tipo" name="tipo">
+  <input class="input" type="text" placeholder="Tipo" name="txtTipoJogo">
   </div>
 
   </div>
